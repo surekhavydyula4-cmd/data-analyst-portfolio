@@ -1,12 +1,12 @@
 # UK Retail Sales Data Analysis (EDA Project)
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a UK retail sales dataset using Python.  
 The project involves data cleaning, preprocessing, analysis, and visualization to identify customer behavior, sales trends, and revenue insights from transactional retail data.
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - Python
 - Pandas
 - Matplotlib
@@ -15,7 +15,7 @@ The project involves data cleaning, preprocessing, analysis, and visualization t
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 ### 1. Data Importing
 - Imported UK retail sales dataset using Pandas
@@ -44,7 +44,7 @@ Created visualizations using Matplotlib and Seaborn for:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Identified top revenue-generating customers
 - Observed peak sales periods and purchasing trends
 - Analyzed country-wise revenue distribution
@@ -52,7 +52,7 @@ Created visualizations using Matplotlib and Seaborn for:
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 This project demonstrates practical skills in:
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
