@@ -1,19 +1,19 @@
 
 # Shopping Data Analysis (SQL Project)
 
-## 📌 Project Overview
+##  Project Overview
 This project is an end-to-end SQL analysis of a retail shopping dataset.  
 It includes data cleaning, transformation, and business analysis to extract meaningful insights from customer transactions.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - MySQL Workbench
 - SQL
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 ### 1. Data Cleaning
 - Checked NULL values
@@ -35,7 +35,7 @@ It includes data cleaning, transformation, and business analysis to extract mean
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Certain product categories generate higher revenue
 - Customer spending varies by gender and age group
 - Some payment methods are more frequently used
