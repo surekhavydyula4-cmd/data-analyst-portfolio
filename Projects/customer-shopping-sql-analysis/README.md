@@ -43,7 +43,7 @@ It includes data cleaning, transformation, and business analysis to extract mean
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 This project demonstrates SQL skills in data cleaning, transformation, and business analytics using real-world retail data.
 
 ---
